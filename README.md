@@ -161,7 +161,7 @@ Location: India
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0affff&height=120&section=footer"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
 </p>
 
 <!-- END -->
