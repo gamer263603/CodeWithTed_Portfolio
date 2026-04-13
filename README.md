@@ -87,7 +87,7 @@ CGPA: 8.43
 ## 🚀 LIVE PROJECTS
 
 <p align="center">
-  <img src="https://revelebyte-ai.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  https://revelebyte-ai.vercel.app
 </p>
 
 ```bash
