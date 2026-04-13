@@ -167,6 +167,6 @@ Location: India
 [ STATUS: MATRIX ACTIVE ]
 </pre>
 
-</details><div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=12&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=WAKE+UP%2C+OPERATIVE.+THE+MATRIX+HAS+YOU...;FOLLOW+THE+WHITE+RABBIT...;KNOCK%2C+KNOCK%2C+NEO." /> </div> ```
+</details><div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=12&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=WAKE+UP%2C+OPERATIVE.+THE+MATRIX+HAS+YOU...;FOLLOW+CODE+WITH+TED...;KNOCK%2C+KNOCK%2C+TEDDY" /> </div> ```
 
 <!-- END -->
