@@ -86,16 +86,19 @@ CGPA: 8.43
 
 ## 🚀 LIVE PROJECTS
 
-<p align="center" style:width=90;>
+<p align="center">
   <a href="https://revelebyte-ai.vercel.app">
-    <img src="https://yfjyiztsxohpnfgbgxsm.supabase.co/storage/v1/object/public/icons/revelebyte_main_icon.png" alt="Revelebyte">
-    
-</a>
+    <img src="https://yfjyiztsxohpnfgbgxsm.supabase.co/storage/v1/object/public/icons/revelebyte_main_icon.png" 
+         alt="Revelebyte"
+         width="120"
+         style="margin-right: 20px;" />
+  </a>
 
-<a href="https://revelebyte-ai-study-mate.vercel.app">
-    <img src="https://bwzfibfqkkwsybebpgxr.supabase.co/storage/v1/object/public/Logos/REV_LOGO.png" alt="Revelebyte Study Mate">
-</a>
-
+  <a href="https://revelebyte-ai-study-mate.vercel.app">
+    <img src="https://bwzfibfqkkwsybebpgxr.supabase.co/storage/v1/object/public/Logos/REV_LOGO.png" 
+         alt="Revelebyte Study Mate"
+         width="120" />
+  </a>
 </p>
 
 ```bash
