@@ -21,7 +21,7 @@
 Tinofara Ted Chenhaka
 
 > role
-Cybersecurity Enthusiast | Python Developer
+Cybersecurity Enthusiast | Python Developer | Full Stack Web Developer | AI Developer
 
 > mission
 Break → Analyze → Secure → Repeat
@@ -35,7 +35,7 @@ Break → Analyze → Secure → Repeat
 ## ⚔️ CYBER ARSENAL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,kali" />
 </p>
 
 ```bash
