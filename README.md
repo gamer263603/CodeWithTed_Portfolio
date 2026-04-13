@@ -1,8 +1,6 @@
-<!-- FUTURISTIC HEADER -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=Initializing+Cyber+Profile...;Ted+Chenhaka+%7C+Cybersecurity+Enthusiast;Ethical+Hacker+%7C+Python+Developer;Securing+the+Digital+World+🔐" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=60&lines=TED+CHENHAKA;CYBER+OPERATIVE;ETHICAL+HACKER" />
+</div>
 
 ---
 
