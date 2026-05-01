@@ -80,9 +80,9 @@ Break → Analyze → Secure → Repeat
 
 ```yaml
 University: Lovely Professional University
-Program: Computer Science & Engineering
+Program: Computer Science & Engineering || Cyber Security 
 Year: 2024 - Present
-CGPA: 8.43
+CGPA: 9.43
 ```
 
 ---
